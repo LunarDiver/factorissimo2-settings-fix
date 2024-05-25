@@ -1,0 +1,9 @@
+{
+    "name": "factorissimo2-settings-fix",
+    "version": "0.1.0",
+    "title": "Factorissimo 2 Settings Fix",
+    "description": "Fixes an annoying bug with notnotmelon's fork of Factorissimo 2 not updating the recursion techs after changing the settings.",
+    "author": "Lunardiver",
+    "contact": "dev@lunardiver.com",
+    "factorio_version": "1.1"
+}
